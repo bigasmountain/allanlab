@@ -1,13 +1,11 @@
 ---
-title: "Allan Lab - Home"
+title: "Yamazaki Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Yamazaki Lab at IIS U-Tokyo"
 sitemap: false
 permalink: /
 ---
-
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+Global Hydrodynamics Lab (PI: Dai Yamazaki) is in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). Our works mainly focus on the dynamics of land waters. We are a part of [U-Tokyo Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,9 +54,16 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+## What is Global Hydrodynamics?
+“Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
 
+It focuses on the movement and storage of the surface and sub-surface waters at multiple temporal and special scales from local to global, including rivers, lakes, wetland, soil moisture, and groundwater. It also covers their interactions with related earth surface processes, such as precipitation, evaporation, coastal and ocean dynamics, biogeochemistry, climate change.  
 
+We extensively use modelling, remote sensing, and data integration approaches to cover the entire global, while we also respect in-situ observations to determine important processes in global hydrodynamics and to ensure the robustness of the model conceptualization.  
 
+In addition to natural hydrological cycle, we also assess the impact of the terrestrial water variability to the human well-beings (e.g. flood, water resources, ecosystem service), and try to understand the reactions of the society (i.e. water resources and hazard management) and their feedback to the global hydrodynamic system.
+
+## Below is from original code, to be modified later:
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
@@ -74,3 +79,5 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+
+
