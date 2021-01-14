@@ -5,6 +5,9 @@ excerpt: "Yamazaki Lab at IIS U-Tokyo"
 sitemap: false
 permalink: /
 ---
+
+NOTE: This webpage is currently under construction.
+
 Global Hydrodynamics Lab (PI: Dai Yamazaki) is in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). Our works mainly focus on the dynamics of land waters. We are a part of [U-Tokyo Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -63,6 +66,8 @@ We extensively use modelling, remote sensing, and data integration approaches to
 
 In addition to natural hydrological cycle, we also assess the impact of the terrestrial water variability to the human well-beings (e.g. flood, water resources, ecosystem service), and try to understand the reactions of the society (i.e. water resources and hazard management) and their feedback to the global hydrodynamic system.
 
+<!--
+
 ## Below is from original code, to be modified later:
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
@@ -80,4 +85,4 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
-
+-->

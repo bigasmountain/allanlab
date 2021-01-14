@@ -1,14 +1,6 @@
----
-title: "Yamazaki Lab - Research"
-layout: textlay
-excerpt: "Yamazaki Lab -- Research"
-sitemap: false
-permalink: /research/
----
+I"�<h1 id="research">Research</h1>
 
-# Research
-
-Our overarching goal is ....
+<p>Our overarching goal is ….</p>
 
 <!--
 
@@ -20,18 +12,15 @@ Here are some themes and techniques that we currently work on:
 
 -->
 
-**Global River Hydrodynamics Modelling (CaMa-Flood).** Global River Model.
+<p><strong>Global River Hydrodynamics Modelling (CaMa-Flood).</strong> Global River Model.</p>
 
+<p><strong>Improvement of global topography/geography map for hydrology models (MERIT dataset).</strong> Precise topography data is the key for high-accuracy land hydrology simulations.</p>
 
-**Improvement of global topography/geography map for hydrology models (MERIT dataset).** Precise topography data is the key for high-accuracy land hydrology simulations.
+<p><strong>Model-data integration for global hydrology monitoring.</strong> Data assimilaion, etc.</p>
 
+<p><strong>Hydrological processes in Earth System Models</strong> Hillslope hydrology in ESM. Coupling with climate models, etc.</p>
 
-**Model-data integration for global hydrology monitoring.** Data assimilaion, etc.
+<p><strong>Global climate/flood risk assessment</strong> CaMa-Flood based risk assessment.</p>
 
-
-**Hydrological processes in Earth System Models** Hillslope hydrology in ESM. Coupling with climate models, etc.
-
-
-**Global climate/flood risk assessment** CaMa-Flood based risk assessment.
-
-### ... and more.
+<h3 id="-and-more">… and more.</h3>
+:ET

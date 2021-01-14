@@ -9,6 +9,10 @@ permalink: /publications/
 
 # Publications
 
+Under construction
+
+<!--
+
 ## Group highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
@@ -60,3 +64,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+-->
